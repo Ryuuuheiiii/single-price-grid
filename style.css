@@ -66,8 +66,10 @@ body{
     font-weight: 700;
     font-size: large;
     box-shadow: var(--box-shadow);
-    cursor: pointer;
-    
+    cursor: pointer;    
+}
+button:hover{
+	background: hsl(71°, 73%, 70%);
 }
 
 .two__col__h3{
